@@ -1,0 +1,4 @@
+# ignore all packages
+packages
+#ignore some vs files
+.vs/
