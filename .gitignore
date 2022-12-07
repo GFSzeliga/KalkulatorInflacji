@@ -1,4 +1,8 @@
 # ignore all packages
 packages
-#ignore some vs files
+# ignore some vs files
 .vs/
+# ignore build directories
+**/bin
+# ignore object directories
+**/obj
